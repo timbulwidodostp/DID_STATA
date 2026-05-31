@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p att_gt Difference-in-Differences (DID) with Multiple Time Periods Use att_gt With STATA 19
