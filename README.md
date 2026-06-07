@@ -1,6 +1,8 @@
 # DID_STATA
 Difference-in-Differences (DID) with Multiple Time Periods Use att_gt With STATA 19
 
+https://www.youtube.com/watch?v=PhmMkKu6WbU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
